@@ -8,7 +8,7 @@
 - 스터디 시작: 2022. 9. 22.(목)
 - 스터디 종료: 2022. 10. 20.(목), 총 5주
 - 세션: 매주 목요일 20:30
-- 과정 관련 문의사항: 담당 매니저에게 슬랙 DM, [learn@programmers.co.kr](mailto:learn@programmers.co.kr)
+- 과정 관련 문의사항: [매니저] 소피아에게 슬랙 DM, [learn@programmers.co.kr](mailto:learn@programmers.co.kr)
 - 환불 등 결제 관련 문의사항: [contact@programmers.co.kr](mailto:contact@programmers.co.kr)
 
 미션 요구사항, 세션 녹화본, 세션에서 쓴 슬라이드 등을 공유하는 학습 공간은 [여기를 클릭](https://school.programmers.co.kr/app/courses/14720/dashboard) 하세요.
